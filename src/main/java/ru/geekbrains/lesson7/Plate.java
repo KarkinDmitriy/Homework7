@@ -13,12 +13,8 @@ public class Plate {
          return true;
 
     }
-    //public boolean amountFood (int food) {
-       // if (food == 0 || food< 0) return false;
-       // return true;
-
-
     public void info(){
+
         System.out.println("plate: " + food);
     }
 }

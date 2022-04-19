@@ -12,10 +12,6 @@ public class HomeWork7App {
             cat.eat(plate);
 
         }
-
-        //plate.amountFood();
         plate.info();
-
-
     }
 }

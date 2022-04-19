@@ -9,6 +9,7 @@ public class Cat {
         this.name = name;
         this.appetite = appetite;
     }
+
     public void eat(Plate plate){
 
         if (plate.decreaseFood(appetite)) {
